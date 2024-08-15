@@ -52,7 +52,7 @@ This project is open source and licensed under the Pramod Morthala License. See 
 
 ## Need Help? 🤔
 
-If you have any questions or need assistance, feel free to reach out to me at pramod.morthala4555@gmail.com. I'm here to help! 🌞
+If you have any questions or need assistance, feel free to reach out to me at pramod.morthala@gmail.com. I'm here to help! 🌞
 
 ## GitHub Stars ⭐
 
